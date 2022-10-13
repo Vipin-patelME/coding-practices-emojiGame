@@ -1,0 +1,30 @@
+/* Write your code here. */
+.nav-bar {
+  height: 80px;
+  background-size: cover;
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.emoji-logo-cont {
+  display: flex;
+  align-items: center;
+}
+.emoji-logo {
+  height: 40px;
+  width: auto;
+  text-align: center;
+  margin-left: 40px;
+}
+.nav-para-cont {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 510;
+}

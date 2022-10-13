@@ -1,0 +1,13 @@
+/* Write your code here. */
+.main-cont {
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #6a59ff;
+}
+.all-emojis {
+  list-style: none;
+  display: flex;
+  width: 60%;
+  flex-wrap: wrap;
+  margin-left: 20%;
+}
